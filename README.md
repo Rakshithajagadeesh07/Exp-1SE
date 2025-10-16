@@ -21,6 +21,14 @@ Communication Diagram
 
 Sequence Diagram
 
+1 . User logs in or creates an account, choosing current or savings type.
+
+2 . They can deposit, withdraw, check balance, print statements, or change PIN.
+
+3 . Users may request a chequebook or apply for a loan (small or large).
+
+4 . After verification and approval, funds are transferred, details stored, and server maintained.
+
 # DIAGRAMS:
 
 ### USE CASE DIAGRAM:
